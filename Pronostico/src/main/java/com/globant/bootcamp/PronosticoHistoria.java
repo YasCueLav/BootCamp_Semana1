@@ -11,6 +11,12 @@ package com.globant.bootcamp;
  */
 public class PronosticoHistoria {
     public static void main(String[] args) {
-        // TODO code application logic here
+        Aire aire = new Aire();
+        Atmosfera atrmosfera = new Atmosfera();
+        Clima clima = new Clima();
+        Lugar lugar = new Lugar();
+        Medida medida = new Medida();
+        
+        
     }
 }
